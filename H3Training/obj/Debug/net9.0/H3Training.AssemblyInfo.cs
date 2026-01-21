@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("H3Training")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15648290e62222ff9851d633f342e8709aa4d589")]
 [assembly: System.Reflection.AssemblyProductAttribute("H3Training")]
 [assembly: System.Reflection.AssemblyTitleAttribute("H3Training")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
